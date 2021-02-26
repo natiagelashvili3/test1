@@ -22,4 +22,8 @@ export default {
     FirstStep
   }
 }
+
 </script>
+<style>
+  
+</style>
