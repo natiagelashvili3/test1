@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" class="xer">
     <FirstStep/>
     <EmailPopup/>
     <Header/>
@@ -26,6 +26,6 @@ export default {
 </script>
 <style>
   #app{
-    
+
   }
 </style>
